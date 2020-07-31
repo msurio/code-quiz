@@ -1,3 +1,5 @@
+/* main styles */
+
 body{
     font-family: 'Roboto', sans-serif;
     text-align:center;
@@ -55,7 +57,8 @@ nav{
     font-weight:bold;
     font-size:36px;
     margin:5px;
-    border: black solid 1px;
+    border: black solid 3px;
+    border-radius:10px;
     color:white;
     background-color: midnightblue;
 }
@@ -79,3 +82,7 @@ nav{
     clear: both;
     display: table;
   }
+
+/*main styles ends */
+
+/* Media Queries */
